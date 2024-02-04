@@ -32,7 +32,8 @@ Route::prefix('admin/')->namespace('admin')->group(function(){
     Route::group(['middleware' => ['admin']], function(){
 
         Route::get('admin_dashboard','AdminController@adminDashboard');
-        Route::get('form','AdminController@form');
+        Route::get('section','AdminController@section');
+        Route::get('category','AdminController@category');
         Route::get('blank','AdminController@blank');
         Route::get('tab','AdminController@tab');
         Route::get('table','AdminController@table');

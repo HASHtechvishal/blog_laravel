@@ -16,31 +16,31 @@
         <h4 class="single-sidebar-widget__title">Catgory</h4>
         <ul class="cat-list mt-20">
           <li>
-            <a href="#" class="d-flex justify-content-between">
+            <a href="{{ url('blog-details')}}" class="d-flex justify-content-between">
               <p>Technology</p>
               <p>(03)</p>
             </a>
           </li>
           <li>
-            <a href="#" class="d-flex justify-content-between">
+            <a href="{{ url('blog-details')}}" class="d-flex justify-content-between">
               <p>Software</p>
               <p>(09)</p>
             </a>
           </li>
           <li>
-            <a href="#" class="d-flex justify-content-between">
+            <a href="{{ url('blog-details')}}" class="d-flex justify-content-between">
               <p>Lifestyle</p>
               <p>(12)</p>
             </a>
           </li>
           <li>
-            <a href="#" class="d-flex justify-content-between">
+            <a href="{{ url('blog-details')}}" class="d-flex justify-content-between">
               <p>Shopping</p>
               <p>(02)</p>
             </a>
           </li>
           <li>
-            <a href="#" class="d-flex justify-content-between">
+            <a href="{{ url('blog-details')}}" class="d-flex justify-content-between">
               <p>Food</p>
               <p>(10)</p>
             </a>
@@ -55,8 +55,8 @@
             <div class="thumb">
               <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb1.png')}}" alt="">
               <ul class="thumb-info">
-                <li><a href="#">Adam Colinge</a></li>
-                <li><a href="#">Dec 15</a></li>
+                <li><a href="{{ url('blog-details')}}">Adam Colinge</a></li>
+                <li><a href="{{ url('blog-details')}}">Dec 15</a></li>
               </ul>
             </div>
             <div class="details mt-20">
@@ -69,8 +69,8 @@
             <div class="thumb">
               <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb2.png')}}" alt="">
               <ul class="thumb-info">
-                <li><a href="#">Adam Colinge</a></li>
-                <li><a href="#">Dec 15</a></li>
+                <li><a href="{{ url('blog-details')}}">Adam Colinge</a></li>
+                <li><a href="{{ url('blog-details')}}">Dec 15</a></li>
               </ul>
             </div>
             <div class="details mt-20">
@@ -84,8 +84,8 @@
             <div class="thumb">
               <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb3.png')}}" alt="">
               <ul class="thumb-info">
-                <li><a href="#">Adam Colinge</a></li>
-                <li><a href="#">Dec 15</a></li>
+                <li><a href="{{ url('blog-details')}}">Adam Colinge</a></li>
+                <li><a href="{{ url('blog-details')}}">Dec 15</a></li>
               </ul>
             </div>
             <div class="details mt-20">
@@ -102,28 +102,28 @@
           <h4 class="single-sidebar-widget__title">Popular Post</h4>
           <ul class="list">
             <li>
-                <a href="#">project</a>
+                <a href="{{ url('blog-details')}}">project</a>
             </li>
             <li>
-                <a href="#">love</a>
+                <a href="{{ url('blog-details')}}">love</a>
             </li>
             <li>
-                <a href="#">technology</a>
+                <a href="{{ url('blog-details')}}">technology</a>
             </li>
             <li>
-                <a href="#">travel</a>
+                <a href="{{ url('blog-details')}}">travel</a>
             </li>
             <li>
-                <a href="#">software</a>
+                <a href="{{ url('blog-details')}}">software</a>
             </li>
             <li>
-                <a href="#">life style</a>
+                <a href="{{ url('blog-details')}}">life style</a>
             </li>
             <li>
-                <a href="#">design</a>
+                <a href="{{ url('blog-details')}}">design</a>
             </li>
             <li>
-                <a href="#">illustration</a>
+                <a href="{{ url('blog-details')}}">illustration</a>
             </li>
           </ul>
         </div>

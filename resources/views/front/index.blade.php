@@ -24,8 +24,8 @@
               <img class="card-img rounded-0" src="{{ url('front/img/blog/blog-slider/blog-slide1.png')}}" alt="">
             </div>
             <div class="blog__slide__content">
-              <a class="blog__slide__label" href="#">Fashion</a>
-              <h3><a href="#">New york fashion week's continued the evolution</a></h3>
+              <a class="blog__slide__label" href="{{ url('blog-details')}}">Fashion</a>
+              <h3><a href="{{ url('blog-details')}}">New york fashion week's continued the evolution</a></h3>
               <p>2 days ago</p>
             </div>
           </div>
@@ -34,8 +34,8 @@
               <img class="card-img rounded-0" src="{{ url('front/img/blog/blog-slider/blog-slide2.png')}}" alt="">
             </div>
             <div class="blog__slide__content">
-              <a class="blog__slide__label" href="#">Fashion</a>
-              <h3><a href="#">New york fashion week's continued the evolution</a></h3>
+              <a class="blog__slide__label" href="{{ url('blog-details')}}">Fashion</a>
+              <h3><a href="{{ url('blog-details')}}">New york fashion week's continued the evolution</a></h3>
               <p>2 days ago</p>
             </div>
           </div>
@@ -44,8 +44,8 @@
               <img class="card-img rounded-0" src="{{ url('front/img/blog/blog-slider/blog-slide3.png')}}" alt="">
             </div>
             <div class="blog__slide__content">
-              <a class="blog__slide__label" href="#">Fashion</a>
-              <h3><a href="#">New york fashion week's continued the evolution</a></h3>
+              <a class="blog__slide__label" href="{{ url('blog-details')}}">Fashion</a>
+              <h3><a href="{{ url('blog-details')}}">New york fashion week's continued the evolution</a></h3>
               <p>2 days ago</p>
             </div>
           </div>
@@ -54,8 +54,8 @@
               <img class="card-img rounded-0" src="{{ url('front/img/blog/blog-slider/blog-slide1.png')}}" alt="">
             </div>
             <div class="blog__slide__content">
-              <a class="blog__slide__label" href="#">Fashion</a>
-              <h3><a href="#">New york fashion week's continued the evolution</a></h3>
+              <a class="blog__slide__label" href="{{ url('blog-details')}}">Fashion</a>
+              <h3><a href="{{ url('blog-details')}}">New york fashion week's continued the evolution</a></h3>
               <p>2 days ago</p>
             </div>
           </div>
@@ -64,8 +64,8 @@
               <img class="card-img rounded-0" src="{{ url('front/img/blog/blog-slider/blog-slide2.png')}}" alt="">
             </div>
             <div class="blog__slide__content">
-              <a class="blog__slide__label" href="#">Fashion</a>
-              <h3><a href="#">New york fashion week's continued the evolution</a></h3>
+              <a class="blog__slide__label" href="{{ url('blog-details')}}">Fashion</a>
+              <h3><a href="{{ url('blog-details')}}">New york fashion week's continued the evolution</a></h3>
               <p>2 days ago</p>
             </div>
           </div>
@@ -74,8 +74,8 @@
               <img class="card-img rounded-0" src="{{ url('front/img/blog/blog-slider/blog-slide3.png')}}" alt="">
             </div>
             <div class="blog__slide__content">
-              <a class="blog__slide__label" href="#">Fashion</a>
-              <h3><a href="#">New york fashion week's continued the evolution</a></h3>
+              <a class="blog__slide__label" href="{{ url('blog-details')}}">Fashion</a>
+              <h3><a href="{{ url('blog-details')}}">New york fashion week's continued the evolution</a></h3>
               <p>2 days ago</p>
             </div>
           </div>
@@ -93,9 +93,9 @@
               <div class="thumb">
                 <img class="img-fluid" src="{{ url('front/img/blog/blog1.png')}}" alt="">
                 <ul class="thumb-info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                  <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-user"></i>Admin</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-notepad"></i>January 12,2019</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-themify-favicon"></i>2 Comments</a></li>
                 </ul>
               </div>
               <div class="details mt-20">
@@ -103,9 +103,9 @@
                   <h3>Woman claims husband wants to name baby girl
                     after his ex-lover sparking.</h3>
                 </a>
-                <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
+                <p class="tag-list-inline">Tag: <a href="{{ url('blog-details')}}">travel</a>, <a href="{{ url('blog-details')}}">life style</a>, <a href="{{ url('blog-details')}}">technology</a>, <a href="{{ url('blog-details')}}">fashion</a></p>
                 <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-                <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <a class="button" href="{{ url('blog-details')}}">Read More <i class="ti-arrow-right"></i></a>
               </div>
             </div>
 
@@ -113,9 +113,9 @@
               <div class="thumb">
                 <img class="img-fluid" src="{{ url('front/img/blog/blog2.png')}}" alt="">
                 <ul class="thumb-info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                  <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-user"></i>Admin</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-notepad"></i>January 12,2019</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-themify-favicon"></i>2 Comments</a></li>
                 </ul>
               </div>
               <div class="details mt-20">
@@ -123,9 +123,9 @@
                   <h3>Woman claims husband wants to name baby girl
                     after his ex-lover sparking.</h3>
                 </a>
-                <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
+                <p class="tag-list-inline">Tag: <a href="{{ url('blog-details')}}">travel</a>, <a href="{{ url('blog-details')}}">life style</a>, <a href="{{ url('blog-details')}}">technology</a>, <a href="{{ url('blog-details')}}">fashion</a></p>
                 <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-                <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <a class="button" href="{{ url('blog-details')}}">Read More <i class="ti-arrow-right"></i></a>
               </div>
             </div>
 
@@ -133,9 +133,9 @@
               <div class="thumb">
                 <img class="img-fluid" src="{{ url('front/img/blog/blog3.png')}}" alt="">
                 <ul class="thumb-info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                  <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-user"></i>Admin</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-notepad"></i>January 12,2019</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-themify-favicon"></i>2 Comments</a></li>
                 </ul>
               </div>
               <div class="details mt-20">
@@ -143,9 +143,9 @@
                   <h3>Tourist deaths in Costa Rica jeopardize safe dest
                     ination reputation all time. </h3>
                 </a>
-                <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
+                <p class="tag-list-inline">Tag: <a href="{{ url('blog-details')}}">travel</a>, <a href="{{ url('blog-details')}}">life style</a>, <a href="{{ url('blog-details')}}">technology</a>, <a href="{{ url('blog-details')}}">fashion</a></p>
                 <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-                <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <a class="button" href="{{ url('blog-details')}}">Read More <i class="ti-arrow-right"></i></a>
               </div>
             </div>
 
@@ -153,9 +153,9 @@
               <div class="thumb">
                 <img class="img-fluid" src="{{ url('front/img/blog/blog4.png')}}" alt="">
                 <ul class="thumb-info">
-                  <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                  <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                  <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-user"></i>Admin</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-notepad"></i>January 12,2019</a></li>
+                  <li><a href="{{ url('blog-details')}}"><i class="ti-themify-favicon"></i>2 Comments</a></li>
                 </ul>
               </div>
               <div class="details mt-20">
@@ -163,9 +163,9 @@
                   <h3>Tourist deaths in Costa Rica jeopardize safe dest
                     ination reputation all time.  </h3>
                 </a>
-                <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
+                <p class="tag-list-inline">Tag: <a href="{{ url('blog-details')}}">travel</a>, <a href="{{ url('blog-details')}}">life style</a>, <a href="{{ url('blog-details')}}">technology</a>, <a href="{{ url('blog-details')}}">fashion</a></p>
                 <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-                <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <a class="button" href="{{ url('blog-details')}}">Read More <i class="ti-arrow-right"></i></a>
               </div>
             </div>
 
@@ -176,16 +176,16 @@
                   <nav class="blog-pagination justify-content-center d-flex">
                       <ul class="pagination">
                           <li class="page-item">
-                              <a href="#" class="page-link" aria-label="Previous">
+                              <a href="{{ url('blog-details')}}" class="page-link" aria-label="Previous">
                                   <span aria-hidden="true">
                                       <i class="ti-angle-left"></i>
                                   </span>
                               </a>
                           </li>
-                          <li class="page-item active"><a href="#" class="page-link">1</a></li>
-                          <li class="page-item"><a href="#" class="page-link">2</a></li>
+                          <li class="page-item active"><a href="{{ url('blog-details')}}" class="page-link">1</a></li>
+                          <li class="page-item"><a href="{{ url('blog-details')}}" class="page-link">2</a></li>
                           <li class="page-item">
-                              <a href="#" class="page-link" aria-label="Next">
+                              <a href="{{ url('blog-details')}}" class="page-link" aria-label="Next">
                                   <span aria-hidden="true">
                                       <i class="ti-angle-right"></i>
                                   </span>

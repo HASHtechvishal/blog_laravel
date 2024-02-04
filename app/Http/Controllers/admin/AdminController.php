@@ -13,9 +13,9 @@ class AdminController extends Controller
         return view('admin/admin_dashboard');
     }
 
-    public function form(Request $req){
+    public function section(Request $req){
 
-        return view('admin/form');
+        return view('admin/section');
     }
 
     public function ui(Request $req){
@@ -36,6 +36,11 @@ class AdminController extends Controller
     public function blank(Request $req){
 
         return view('admin/blank');
+    }
+
+    public function category(Request $req){
+
+        return view('admin/category');
     }
 
     public function adminLogout(){

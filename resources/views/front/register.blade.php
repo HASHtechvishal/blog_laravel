@@ -35,7 +35,7 @@
                 <div class="card-heading">
                     <h2 class="title">Admin Registration Form</h2>
                 </div>
-                <div>Already Member - <a href="{{ url('login_admin')}}">Login</a></div>
+                <div>Already Member - <div><a href="{{ url('login_admin')}}" class="btn btn-danger">Login</a></div></div>
                 <div class="card-body">
                     <form method="POST" action="{{ url('register_admin')}}" enctype="multipart/form-data">@csrf
                         <div class="form-row m-b-55">

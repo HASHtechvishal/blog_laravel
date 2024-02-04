@@ -35,7 +35,7 @@
                 <div class="card-heading">
                     <h2 class="title">Admin Login</h2>
                 </div>
-                <div>Not a member - <a href="{{ url('register_admin')}}">Register</a></div>
+                <div>Not a member - <div><a href="{{ url('register_admin')}}" class="btn btn-danger">Register</a></div></div>
                 <div class="card-body">
                     <form method="POST" action="{{ url('login_admin')}}">@csrf
                         <div class="form-row">
