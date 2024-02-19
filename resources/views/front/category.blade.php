@@ -29,17 +29,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card1.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                 
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Fast cars and rickety bridges as 
-                        he grand tour returns</h3>
+                    <h3>ABC catgory - abc we  etc etc</h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -48,17 +43,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card2.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                  
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Harvey Weinstein's senual assault
-                        trial set for May</h3>
+                    <h3>EFG catgory - etc etc etc etc </h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -67,17 +57,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card3.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                  
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Fast cars and rickety bridges as 
-                        he grand tour returns</h3>
+                    <h3>HIJ catgory - etc etc etc etc etc</h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -86,17 +71,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card4.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                  
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Harvey Weinstein's senual assault
-                        trial set for May</h3>
+                    <h3>KLM catgory - etc etc etc etc etc etc</h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -105,17 +85,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card5.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                  
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Fast cars and rickety bridges as 
-                        he grand tour returns</h3>
+                    <h3>NOP catgory - etc etc etc etc etc</h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -124,17 +99,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card6.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                  
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Harvey Weinstein's senual assault
-                        trial set for May</h3>
+                    <h3>QRS catgory - etc etc etc etc etc etc</h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -143,17 +113,12 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card7.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                 
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Fast cars and rickety bridges as 
-                        he grand tour returns</h3>
+                    <h3>TUV catgory - etc etc etc etc etc etc </h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
@@ -162,82 +127,19 @@
               <div class="single-recent-blog-post card-view">
                 <div class="thumb">
                   <img class="card-img rounded-0" src="{{ url('front/img/blog/thumb/thumb-card8.png') }}" alt="">
-                  <ul class="thumb-info">
-                    <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                    <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-                  </ul>
+                  
                 </div>
                 <div class="details mt-20">
                   <a href="blog-single.html">
-                    <h3>Harvey Weinstein's senual assault
-                        trial set for May</h3>
+                    <h3>WXYZ catgory - etc etc etc etc</h3>
                   </a>
-                  <p>Vel aliquam quis, nulla pede mi commodo no tristique nam hac luctus torquent velit felis lone commodo pellentesque</p>
                   <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <!-- <div class="single-recent-blog-post">
-            <div class="thumb">
-              <img class="img-fluid" src="{{ url('front/img/blog/blog2.png') }}" alt="">
-              <ul class="thumb-info">
-                <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-              </ul>
-            </div>
-            <div class="details mt-20">
-              <a href="blog-single.html">
-                <h3>Woman claims husband wants to name baby girl
-                  after his ex-lover sparking.</h3>
-              </a>
-              <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
-              <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-              <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
-            </div>
-          </div>
-
-          <div class="single-recent-blog-post">
-            <div class="thumb">
-              <img class="img-fluid" src="{{ url('front/img/blog/blog3.png') }}" alt="">
-              <ul class="thumb-info">
-                <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-              </ul>
-            </div>
-            <div class="details mt-20">
-              <a href="blog-single.html">
-                <h3>Tourist deaths in Costa Rica jeopardize safe dest
-                  ination reputation all time. </h3>
-              </a>
-              <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
-              <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-              <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
-            </div>
-          </div>
-
-          <div class="single-recent-blog-post">
-            <div class="thumb">
-              <img class="img-fluid" src="{{ url('front/img/blog/blog4.png') }}" alt="">
-              <ul class="thumb-info">
-                <li><a href="#"><i class="ti-user"></i>Admin</a></li>
-                <li><a href="#"><i class="ti-notepad"></i>January 12,2019</a></li>
-                <li><a href="#"><i class="ti-themify-favicon"></i>2 Comments</a></li>
-              </ul>
-            </div>
-            <div class="details mt-20">
-              <a href="blog-single.html">
-                <h3>Tourist deaths in Costa Rica jeopardize safe dest
-                  ination reputation all time.  </h3>
-              </a>
-              <p class="tag-list-inline">Tag: <a href="#">travel</a>, <a href="#">life style</a>, <a href="#">technology</a>, <a href="#">fashion</a></p>
-              <p>Over yielding doesn't so moved green saw meat hath fish he him from given yielding lesser cattle were fruitful lights. Given let have, lesser their made him above gathered dominion sixth. Creeping deep said can't called second. Air created seed heaven sixth created living</p>
-              <a class="button" href="#">Read More <i class="ti-arrow-right"></i></a>
-            </div>
-          </div> -->
+          
 
           
 
