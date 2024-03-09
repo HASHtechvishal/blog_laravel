@@ -38,13 +38,14 @@
                 <div>Already Member - <div><a href="{{ url('login_admin')}}" class="btn btn-danger">Login</a></div></div>
                 <div class="card-body">
                     <form method="POST" action="{{ url('register_admin')}}" enctype="multipart/form-data">@csrf
+                       
                         <div class="form-row m-b-55">
                             <div class="name">Name</div>
                             <div class="value">
                                 <div class="row row-space">
                                     <div class="col-12">
                                         <div class="input-group-desc">
-                                            <input class="input--style-5" type="text" name="first_name">
+                                            <input class="input--style-5" type="text" name="first_name" required>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +120,7 @@
     <!-- Main JS-->
     <script src="js/global.js"></script>
 
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</body>
 
 </html>
 <!-- end document-->

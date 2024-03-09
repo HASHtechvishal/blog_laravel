@@ -32,9 +32,28 @@ class IndexController extends Controller
 
     public function register_admin(Request $req){
 
-        if($req->isMethod('post')){
+        if($req->isMethod('post')){ 
             $data = $req->all();
             //dd($data); die();
+        
+        //validation
+            $rule = [
+                'first_name' => 'required|string',
+                'email' => 'required|email',
+                'password' => ['required', Password::min(8)
+                ->letters()
+                ->mixedCase()
+                ->numbers()
+                ->symbols()
+                ->uncompromised()
+        ],
+                'phone' => 'required||regex:/^([0-9\s\-\+\(\)]*)$/|min:10',
+                'admin_img' => 'required|image|mimes:jpeg,png,jpg,gif|max:2048',
+                'type' => 'required',
+            ];
+
+            $val_msg = [];
+
             $adminCount = Admin::where('email',$data['email'])->count();
 
             //upload admin photo
